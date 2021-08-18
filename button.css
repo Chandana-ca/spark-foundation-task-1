@@ -1,0 +1,15 @@
+.glow-on-hover {
+    width: 220px;
+    height: 51px;
+    outline: none;
+    color: red;
+    font-size:18px;
+    background:transparent;
+    text-shadow: 0.7px 0.7px black;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid #00FFFF;
+}
+
